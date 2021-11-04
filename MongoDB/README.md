@@ -1,1 +1,1 @@
-##This folder contains the assignments of MongoDB.
+This folder contains the assignments of MongoDB.
